@@ -1,8 +1,8 @@
 ## Header header
 
 the following is a list
-*one
-*two
-*three
+* one
+* two
+* three
 
 that is all
